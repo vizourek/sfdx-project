@@ -1,0 +1,528 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef1"
+            },
+            "Name": "Caroline Kingsley",
+            "Email__c": "caroline@dreamhouse.demo",
+            "Phone__c": "617-244-3672",
+            "Mobile_Phone__c": "617-244-3672",
+            "Title__c": "Senior Broker",
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/caroline_kingsley.jpg",
+            "Properties__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef1"
+                        },
+                        "Address__c": "223 Huron Ave",
+                        "Baths__c": 3,
+                        "Beds__c": 4,
+                        "City__c": "Cambridge",
+                        "Date_Listed__c": "2019-09-09",
+                        "Description__c": "Lorem ipsum dolor sit amet",
+                        "Location__Longitude__s": -71.132681,
+                        "Location__Latitude__s": 42.381437,
+                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/victorian07.jpg",
+                        "Price__c": 850000,
+                        "Name": "223 Huron Ave",
+                        "State__c": "MA",
+                        "Tags__c": "victorian",
+                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/victorian07sq.jpg",
+                        "Title__c": "Recently Updated",
+                        "Zip__c": "02138"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef2"
+                        },
+                        "Address__c": "121 Harborwalk",
+                        "Baths__c": 3,
+                        "Beds__c": 3,
+                        "City__c": "Boston",
+                        "Date_Listed__c": "2019-08-26",
+                        "Description__c": "Lorem ipsum dolor sit amet",
+                        "Location__Longitude__s": -71.049327,
+                        "Location__Latitude__s": 42.35695,
+                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house09.jpg",
+                        "Price__c": 450000,
+                        "Name": "121 Harborwalk",
+                        "State__c": "MA",
+                        "Tags__c": "contemporary",
+                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house09sq.jpg",
+                        "Title__c": "Seaport District Retreat",
+                        "Zip__c": "02420"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef3"
+                        },
+                        "Address__c": "18 Henry st",
+                        "Baths__c": 3,
+                        "Beds__c": 4,
+                        "City__c": "Cambridge",
+                        "Date_Listed__c": "2019-09-08",
+                        "Description__c": "Lorem ipsum dolor sit amet",
+                        "Location__Longitude__s": -71.11095,
+                        "Location__Latitude__s": 42.35663,
+                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house01.jpg",
+                        "Price__c": 975000,
+                        "Name": "18 Henry st",
+                        "State__c": "MA",
+                        "Tags__c": "colonial",
+                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house01sq.jpg",
+                        "Title__c": "Stunning Colonial",
+                        "Zip__c": "01742"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef2"
+            },
+            "Name": "Jonathan Bradley",
+            "Email__c": "jonathan@dreamhouse.demo",
+            "Phone__c": "617-244-3672",
+            "Mobile_Phone__c": "617-244-3672",
+            "Title__c": "Senior Broker",
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/jonathan_bradley.jpg",
+            "Properties__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef4"
+                        },
+                        "Address__c": "95 Gloucester st",
+                        "Baths__c": 3,
+                        "Beds__c": 3,
+                        "City__c": "Boston",
+                        "Date_Listed__c": "2019-09-15",
+                        "Description__c": "Lorem ipsum dolor sit amet",
+                        "Location__Longitude__s": -71.084407,
+                        "Location__Latitude__s": 42.349693,
+                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house11.jpg",
+                        "Price__c": 690000,
+                        "Name": "95 Gloucester st",
+                        "State__c": "MA",
+                        "Tags__c": "contemporary",
+                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house11sq.jpg",
+                        "Title__c": "Architectural Details",
+                        "Zip__c": "02420"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef5"
+                        },
+                        "Address__c": "61 West Cedar st",
+                        "Baths__c": 4,
+                        "Beds__c": 5,
+                        "City__c": "Boston",
+                        "Date_Listed__c": "2019-09-11",
+                        "Description__c": "Lorem ipsum dolor sit amet",
+                        "Location__Longitude__s": -71.070061,
+                        "Location__Latitude__s": 42.359986,
+                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house03.jpg",
+                        "Price__c": 825000,
+                        "Name": "61 West Cedar st",
+                        "State__c": "MA",
+                        "Tags__c": "contemporary",
+                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house03sq.jpg",
+                        "Title__c": "Modern City Living",
+                        "Zip__c": "02420"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef3"
+            },
+            "Name": "Jennifer Wu",
+            "Email__c": "jen@dreamhouse.demo",
+            "Phone__c": "617-244-3672",
+            "Mobile_Phone__c": "617-244-3672",
+            "Title__c": "Senior Broker",
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/jennifer_wu.jpg",
+            "Properties__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef6"
+                        },
+                        "Address__c": "145 Commonwealth ave",
+                        "Baths__c": 3,
+                        "Beds__c": 4,
+                        "City__c": "Boston",
+                        "Date_Listed__c": "2019-08-24",
+                        "Description__c": "Lorem ipsum dolor sit amet",
+                        "Location__Longitude__s": -71.075311,
+                        "Location__Latitude__s": 42.352466,
+                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house12.jpg",
+                        "Price__c": 845000,
+                        "Name": "145 Commonwealth ave",
+                        "State__c": "MA",
+                        "Tags__c": "colonial",
+                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house12sq.jpg",
+                        "Title__c": "Luxury Redefined",
+                        "Zip__c": "02420"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef7"
+                        },
+                        "Address__c": "32 Prince st",
+                        "Baths__c": 4,
+                        "Beds__c": 5,
+                        "City__c": "Cambridge",
+                        "Date_Listed__c": "2019-09-16",
+                        "Description__c": "Lorem ipsum dolor sit amet",
+                        "Location__Longitude__s": -71.110448,
+                        "Location__Latitude__s": 42.360642,
+                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house04.jpg",
+                        "Price__c": 930000,
+                        "Name": "32 Prince st",
+                        "State__c": "MA",
+                        "Tags__c": "victorian",
+                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house04sq.jpg",
+                        "Title__c": "Stunning Victorian",
+                        "Zip__c": "02420"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef4"
+            },
+            "Name": "Olivia Green",
+            "Email__c": "olivia@dreamhouse.demo",
+            "Phone__c": "617-244-3672",
+            "Mobile_Phone__c": "617-244-3672",
+            "Title__c": "Senior Broker",
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/olivia_green.jpg",
+            "Properties__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef8"
+                        },
+                        "Address__c": "24 Euston St",
+                        "Baths__c": 3,
+                        "Beds__c": 5,
+                        "City__c": "Brookline",
+                        "Date_Listed__c": "2019-09-27",
+                        "Description__c": "Lorem ipsum dolor sit amet",
+                        "Location__Longitude__s": -71.109131,
+                        "Location__Latitude__s": 42.348087,
+                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/victorian01.jpg",
+                        "Price__c": 690000,
+                        "Name": "24 Euston St",
+                        "State__c": "MA",
+                        "Tags__c": "victorian",
+                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/victorian01sq.jpg",
+                        "Title__c": "Historical Victorian",
+                        "Zip__c": "02446"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef9"
+                        },
+                        "Address__c": "211 Charles Street",
+                        "Baths__c": 2,
+                        "Beds__c": 3,
+                        "City__c": "Boston",
+                        "Date_Listed__c": "2019-09-20",
+                        "Description__c": "Lorem ipsum dolor sit amet",
+                        "Location__Longitude__s": -71.084454,
+                        "Location__Latitude__s": 42.368168,
+                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house05.jpg",
+                        "Price__c": 850000,
+                        "Name": "211 Charles Street",
+                        "State__c": "MA",
+                        "Tags__c": "contemporary",
+                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house05sq.jpg",
+                        "Title__c": "Waterfront in the city",
+                        "Zip__c": "02420"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef5"
+            },
+            "Name": "Miriam Aupont",
+            "Email__c": "miriam@dreamhouse.demo",
+            "Phone__c": "617-244-3672",
+            "Mobile_Phone__c": "617-244-3672",
+            "Title__c": "Senior Broker",
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/miriam_aupont.jpg",
+            "Properties__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef10"
+                        },
+                        "Address__c": "650 Kendall St",
+                        "Baths__c": 4,
+                        "Beds__c": 6,
+                        "City__c": "Cambridge",
+                        "Date_Listed__c": "2019-09-26",
+                        "Description__c": "Lorem ipsum dolor sit amet",
+                        "Location__Longitude__s": -71.08064,
+                        "Location__Latitude__s": 42.364772,
+                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/victorian02.jpg",
+                        "Price__c": 730000,
+                        "Name": "650 Kendall St",
+                        "State__c": "MA",
+                        "Tags__c": "victorian",
+                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/victorian02sq.jpg",
+                        "Title__c": "Unique Victorian",
+                        "Zip__c": "02142"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef11"
+                        },
+                        "Address__c": "448 Hanover st",
+                        "Baths__c": 2,
+                        "Beds__c": 4,
+                        "City__c": "Boston",
+                        "Date_Listed__c": "2019-10-02",
+                        "Description__c": "Lorem ipsum dolor sit amet",
+                        "Location__Longitude__s": -71.052617,
+                        "Location__Latitude__s": 42.366855,
+                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house06.jpg",
+                        "Price__c": 725000,
+                        "Name": "448 Hanover st",
+                        "State__c": "MA",
+                        "Tags__c": "colonial",
+                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house06sq.jpg",
+                        "Title__c": "Quiet Retreat",
+                        "Zip__c": "02420"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef6"
+            },
+            "Name": "Michelle Lambert",
+            "Email__c": "michelle@dreamhouse.demo",
+            "Phone__c": "617-244-3672",
+            "Mobile_Phone__c": "617-244-3672",
+            "Title__c": "Senior Broker",
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/michelle_lambert.jpg",
+            "Properties__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef12"
+                        },
+                        "Address__c": "252 Charles St",
+                        "Baths__c": 3,
+                        "Beds__c": 7,
+                        "City__c": "Cambridge",
+                        "Date_Listed__c": "2019-09-01",
+                        "Description__c": "Lorem ipsum dolor sit amet",
+                        "Location__Longitude__s": -71.08592,
+                        "Location__Latitude__s": 42.368269,
+                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/victorian03.jpg",
+                        "Price__c": 790000,
+                        "Name": "252 Charles St",
+                        "State__c": "MA",
+                        "Tags__c": "victorian",
+                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/victorian03sq.jpg",
+                        "Title__c": "One of a kind",
+                        "Zip__c": "02141"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef13"
+                        },
+                        "Address__c": "127 Endicott st",
+                        "Baths__c": 1,
+                        "Beds__c": 3,
+                        "City__c": "Boston",
+                        "Date_Listed__c": "2019-09-12",
+                        "Description__c": "Lorem ipsum dolor sit amet",
+                        "Location__Longitude__s": -71.057352,
+                        "Location__Latitude__s": 42.365003,
+                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house07.jpg",
+                        "Price__c": 450000,
+                        "Name": "127 Endicott st",
+                        "State__c": "MA",
+                        "Tags__c": "colonial",
+                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house07sq.jpg",
+                        "Title__c": "City Living",
+                        "Zip__c": "02420"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef7"
+            },
+            "Name": "Victor Ochoa",
+            "Email__c": "victor@dreamhouse.demo",
+            "Phone__c": "617-244-3672",
+            "Mobile_Phone__c": "617-244-3672",
+            "Title__c": "Senior Broker",
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/victor_ochoa.jpg",
+            "Properties__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef14"
+                        },
+                        "Address__c": "105 Brattle St",
+                        "Baths__c": 5,
+                        "Beds__c": 5,
+                        "City__c": "Cambridge",
+                        "Date_Listed__c": "2019-09-29",
+                        "Description__c": "Lorem ipsum dolor sit amet",
+                        "Location__Longitude__s": -71.126194,
+                        "Location__Latitude__s": 42.376511,
+                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/victorian06.jpg",
+                        "Price__c": 950000,
+                        "Name": "105 Brattle St",
+                        "State__c": "MA",
+                        "Tags__c": "victorian",
+                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/victorian06sq.jpg",
+                        "Title__c": "Location Location!",
+                        "Zip__c": "02138"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef15"
+                        },
+                        "Address__c": "48 Brattle st",
+                        "Baths__c": 4,
+                        "Beds__c": 5,
+                        "City__c": "Cambridge",
+                        "Date_Listed__c": "2019-09-28",
+                        "Description__c": "Lorem ipsum dolor sit amet",
+                        "Location__Longitude__s": -71.121653,
+                        "Location__Latitude__s": 42.374117,
+                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house10.jpg",
+                        "Price__c": 450000,
+                        "Name": "48 Brattle st",
+                        "State__c": "MA",
+                        "Tags__c": "victorian",
+                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house10sq.jpg",
+                        "Title__c": "Heart of Harvard Square",
+                        "Zip__c": "02420"
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef8"
+            },
+            "Name": "Michael Jones",
+            "Email__c": "michael@dreamhouse.demo",
+            "Phone__c": "617-244-3672",
+            "Mobile_Phone__c": "617-244-3672",
+            "Title__c": "Senior Broker",
+            "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/people/michael_jones.jpg",
+            "Properties__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef16"
+                        },
+                        "Address__c": "30 Peterborough St",
+                        "Baths__c": 4,
+                        "Beds__c": 5,
+                        "City__c": "Boston",
+                        "Date_Listed__c": "2019-09-19",
+                        "Description__c": "Lorem ipsum dolor sit amet",
+                        "Location__Longitude__s": -71.096371,
+                        "Location__Latitude__s": 42.34389,
+                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/victorian04.jpg",
+                        "Price__c": 650000,
+                        "Name": "30 Peterborough St",
+                        "State__c": "MA",
+                        "Tags__c": "victorian",
+                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/victorian04sq.jpg",
+                        "Title__c": "Character and Details",
+                        "Zip__c": "02215"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef17"
+                        },
+                        "Address__c": "503 Park Drive",
+                        "Baths__c": 2,
+                        "Beds__c": 2,
+                        "City__c": "Boston",
+                        "Date_Listed__c": "2019-08-31",
+                        "Description__c": "Lorem ipsum dolor sit amet",
+                        "Location__Longitude__s": -71.105475,
+                        "Location__Latitude__s": 42.3474,
+                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house08.jpg",
+                        "Price__c": 650000,
+                        "Name": "503 Park Drive",
+                        "State__c": "MA",
+                        "Tags__c": "contemporary",
+                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house08sq.jpg",
+                        "Title__c": "City Living",
+                        "Zip__c": "02420"
+                    },
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef18"
+                        },
+                        "Address__c": "24 Pearl st",
+                        "Baths__c": 4,
+                        "Beds__c": 5,
+                        "City__c": "Cambridge",
+                        "Date_Listed__c": "2019-09-26",
+                        "Description__c": "Lorem ipsum dolor sit amet",
+                        "Location__Longitude__s": -71.10869,
+                        "Location__Latitude__s": 42.359103,
+                        "Picture__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house02.jpg",
+                        "Price__c": 1200000,
+                        "Name": "24 Pearl st",
+                        "State__c": "MA",
+                        "Tags__c": "colonial",
+                        "Thumbnail__c": "https://s3-us-west-1.amazonaws.com/sfdc-demo/realty/house02sq.jpg",
+                        "Title__c": "Ultimate Sophistication",
+                        "Zip__c": "02420"
+                    }
+                ]
+            }
+        }
+    ]
+}
